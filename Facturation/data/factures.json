@@ -1,0 +1,260 @@
+[
+    {
+        "numero": "FAC-20260428-0001",
+        "date": "2026-04-28 18:44:55",
+        "client": {
+            "nom": "evande",
+            "adresse": ""
+        },
+        "articles": {
+            "6044000013992": {
+                "nom": "EDEN",
+                "prix_unitaire_ht": 10000,
+                "quantite": 2
+            },
+            "9556126670661": {
+                "nom": "Vaseline",
+                "prix_unitaire_ht": 1.5,
+                "quantite": 1
+            }
+        },
+        "total_ht": 20001.5,
+        "tva": 3600.27,
+        "total_ttc": 23601.77
+    },
+    {
+        "numero": "FAC-20260428-0002",
+        "date": "2026-04-28 18:45:45",
+        "client": {
+            "nom": "evande",
+            "adresse": ""
+        },
+        "articles": {
+            "9556126670661": {
+                "nom": "Vaseline",
+                "prix_unitaire_ht": 1.5,
+                "quantite": 1
+            }
+        },
+        "total_ht": 1.5,
+        "tva": 0.27,
+        "total_ttc": 1.77
+    },
+    {
+        "numero": "FAC-20260428-0003",
+        "date": "2026-04-28 19:47:05",
+        "client": {
+            "nom": "blessing",
+            "adresse": ""
+        },
+        "articles": {
+            "6044000013992": {
+                "nom": "EDEN",
+                "prix_unitaire_ht": 10000,
+                "quantite": 1
+            },
+            "9556126670661": {
+                "nom": "Vaseline",
+                "prix_unitaire_ht": 1.5,
+                "quantite": 1
+            },
+            "6009879794236": {
+                "nom": "Alpina",
+                "prix_unitaire_ht": 1.5,
+                "quantite": 1
+            }
+        },
+        "total_ht": 10003,
+        "tva": 1800.54,
+        "total_ttc": 11803.54
+    },
+    {
+        "numero": "FAC-20260428-0004",
+        "date": "2026-04-28 20:54:08",
+        "client": {
+            "nom": "dtru",
+            "adresse": ""
+        },
+        "articles": {
+            "6009879794236": {
+                "nom": "Alpina",
+                "prix_unitaire_ht": 1.5,
+                "quantite": 1
+            }
+        },
+        "total_ht": 1.5,
+        "tva": 0.27,
+        "total_ttc": 1.77
+    },
+    {
+        "numero": "FAC-20260429-0005",
+        "date": "2026-04-29 16:09:52",
+        "client": {
+            "nom": "blessing",
+            "adresse": ""
+        },
+        "articles": {
+            "6044000013992": {
+                "nom": "EDEN",
+                "prix_unitaire_ht": 10000,
+                "quantite": 1
+            },
+            "9556126670661": {
+                "nom": "Vaseline",
+                "prix_unitaire_ht": 1.5,
+                "quantite": 1
+            }
+        },
+        "total_ht": 10001.5,
+        "tva": 1800.27,
+        "total_ttc": 11801.77
+    },
+    {
+        "numero": "FAC-20260429-0006",
+        "date": "2026-04-29 16:17:04",
+        "client": {
+            "nom": "olivia",
+            "adresse": ""
+        },
+        "articles": {
+            "6044000013992": {
+                "nom": "EDEN",
+                "prix_unitaire_ht": 10000,
+                "quantite": 1
+            },
+            "9556126670661": {
+                "nom": "Vaseline",
+                "prix_unitaire_ht": 1.5,
+                "quantite": 1
+            }
+        },
+        "total_ht": 10001.5,
+        "tva": 1800.27,
+        "total_ttc": 11801.77
+    },
+    {
+        "numero": "FAC-20260429-0007",
+        "date": "2026-04-29 16:37:23",
+        "client": {
+            "nom": "olivia",
+            "adresse": ""
+        },
+        "articles": {
+            "6044000013992": {
+                "nom": "EDEN",
+                "prix_unitaire_ht": 10000,
+                "quantite": 1
+            },
+            "6009879794236": {
+                "nom": "Alpina",
+                "prix_unitaire_ht": 1.5,
+                "quantite": 1
+            }
+        },
+        "total_ht": 10001.5,
+        "tva": 1800.27,
+        "total_ttc": 11801.77
+    },
+    {
+        "numero": "FAC-20260429-0008",
+        "date": "2026-04-29 17:07:43",
+        "client": {
+            "nom": "evande",
+            "adresse": ""
+        },
+        "articles": {
+            "8791920011055": {
+                "nom": "SWISSta",
+                "prix_unitaire_ht": 1.2,
+                "quantite": 5
+            },
+            "6044000013992": {
+                "nom": "EDEN",
+                "prix_unitaire_ht": 10000,
+                "quantite": 1
+            }
+        },
+        "total_ht": 10006,
+        "tva": 1801.08,
+        "total_ttc": 11807.08
+    },
+    {
+        "numero": "FAC-20260430-0009",
+        "date": "2026-04-30 10:47:47",
+        "client": {
+            "nom": "audrey",
+            "adresse": "ngiri-ngiri"
+        },
+        "articles": {
+            "12345": {
+                "nom": "Bouteille d'eau",
+                "prix_unitaire_ht": 1.5,
+                "quantite": 2
+            },
+            "22222": {
+                "nom": "Fromage",
+                "prix_unitaire_ht": 5.5,
+                "quantite": 1
+            },
+            "9501101378339": {
+                "nom": "BONBON",
+                "prix_unitaire_ht": 0.1,
+                "quantite": 2
+            }
+        },
+        "total_ht": 8.7,
+        "tva": 1.5659999999999998,
+        "total_ttc": 10.265999999999998
+    },
+    {
+        "numero": "FAC-20260430-0010",
+        "date": "2026-04-30 11:08:52",
+        "client": {
+            "nom": "audrey",
+            "adresse": "NGIRI-NGIRI"
+        },
+        "articles": {
+            "12345": {
+                "nom": "Bouteille d'eau",
+                "prix_unitaire_ht": 1.5,
+                "quantite": 3
+            },
+            "33333": {
+                "nom": "Yaourt",
+                "prix_unitaire_ht": 0.8,
+                "quantite": 1
+            },
+            "9501101378339": {
+                "nom": "BONBON",
+                "prix_unitaire_ht": 0.1,
+                "quantite": 1
+            },
+            "22222": {
+                "nom": "Fromage",
+                "prix_unitaire_ht": 5.5,
+                "quantite": 2
+            }
+        },
+        "total_ht": 16.4,
+        "tva": 2.9519999999999995,
+        "total_ttc": 19.351999999999997
+    },
+    {
+        "numero": "FAC-20260503-0011",
+        "date": "2026-05-03 12:30:51",
+        "client": {
+            "nom": "bless",
+            "adresse": ""
+        },
+        "articles": {
+            "4066447770728": {
+                "nom": "Balea",
+                "prix_unitaire_ht": 5,
+                "quantite": 2
+            }
+        },
+        "total_ht": 10,
+        "tva": 1.7999999999999998,
+        "total_ttc": 11.8
+    }
+]

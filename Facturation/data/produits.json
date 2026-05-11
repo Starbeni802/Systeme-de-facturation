@@ -1,0 +1,74 @@
+[
+    {
+        "code_barre": "12345",
+        "nom": "Bouteille d'eau",
+        "prix_unitaire_ht": 1.5,
+        "quantite_stock": 100,
+        "date_expiration": "2026-12-31",
+        "date_enregistrement": "2026-04-26"
+    },
+    {
+        "code_barre": "67890",
+        "nom": "Pain",
+        "prix_unitaire_ht": 2,
+        "quantite_stock": 50,
+        "date_expiration": "2026-04-28",
+        "date_enregistrement": "2026-04-26"
+    },
+    {
+        "code_barre": "8 424730 00",
+        "nom": "Lait",
+        "prix_unitaire_ht": 1.2,
+        "quantite_stock": 80,
+        "date_expiration": "2026-05-01",
+        "date_enregistrement": "2026-04-26"
+    },
+    {
+        "code_barre": "22222",
+        "nom": "Fromage",
+        "prix_unitaire_ht": 5.5,
+        "quantite_stock": 30,
+        "date_expiration": "2026-05-15",
+        "date_enregistrement": "2026-04-26"
+    },
+    {
+        "code_barre": "33333",
+        "nom": "Yaourt",
+        "prix_unitaire_ht": 0.8,
+        "quantite_stock": 120,
+        "date_expiration": "2026-05-10",
+        "date_enregistrement": "2026-04-26"
+    },
+    {
+        "code_barre": "9501101378339",
+        "nom": "BONBON",
+        "prix_unitaire_ht": 0.1,
+        "date_expiration": "2027-12-01",
+        "quantite_stock": 200,
+        "date_enregistrement": "2026-04-30"
+    },
+    {
+        "code_barre": "95011013",
+        "nom": "SAVON",
+        "prix_unitaire_ht": 1.5,
+        "date_expiration": "2028-11-23",
+        "quantite_stock": 40,
+        "date_enregistrement": "2026-04-30"
+    },
+    {
+        "code_barre": "34567",
+        "nom": "BISCUIT",
+        "prix_unitaire_ht": 0.5,
+        "date_expiration": "2027-06-22",
+        "quantite_stock": 50,
+        "date_enregistrement": "2026-04-30"
+    },
+    {
+        "code_barre": "4066447770728",
+        "nom": "Balea",
+        "prix_unitaire_ht": 5,
+        "date_expiration": "2029-06-01",
+        "quantite_stock": 7,
+        "date_enregistrement": "2026-05-03"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "identifiant": "Admin",
+        "mot_de_passe": "admin123",
+        "nom": "MAVAKALA",
+        "prenom": "OLIVIA",
+        "role": "admin",
+        "statut": "actif",
+        "date_creation": "2026-04-28"
+    },
+    {
+        "id": 2,
+        "identifiant": "Manager",
+        "mot_de_passe": "manager123",
+        "nom": "MUSENGI",
+        "prenom": "AUDREY",
+        "role": "manager",
+        "statut": "actif",
+        "date_creation": "2026-04-28"
+    },
+    {
+        "id": 3,
+        "identifiant": "Manager2",
+        "mot_de_passe": "manager321",
+        "nom": "EVANDE",
+        "prenom": "BLESSING",
+        "role": "manager",
+        "statut": "actif",
+        "date_creation": "2026-04-28"
+    },
+    {
+        "id": 4,
+        "identifiant": "Caissier",
+        "mot_de_passe": "caissier123",
+        "nom": "KATSHINGU",
+        "prenom": "ENOCK",
+        "role": "caissier",
+        "statut": "actif",
+        "date_creation": "2026-04-29"
+    },
+    {
+        "id": 5,
+        "identifiant": "Caissier",
+        "mot_de_passe": "caissier123",
+        "nom": "BIDIKI",
+        "prenom": "HENOC",
+        "role": "caissier",
+        "statut": "actif",
+        "date_creation": "2026-04-29"
+    },
+    {
+        "id": 6,
+        "identifiant": "Caissier2",
+        "mot_de_passe": "$2y$10$z6xJJsokm0YUMnNeklUGDuKNboOHbVPO1PaoCGgLbPApI4IzNLlLm",
+        "nom": "CHIBENDA",
+        "prenom": "MIRADIE",
+        "role": "caissier",
+        "statut": "actif",
+        "date_creation": "2026-04-30"
+    },
+    {
+        "id": 7,
+        "identifiant": "Caissier5",
+        "mot_de_passe": "$2y$10$bvRHhCE5nsFV3qitu7Izy.tDTrmL2R\/xg6ZgfGTxAmhEuX8oa0IGO",
+        "nom": "CHIBENDA",
+        "prenom": "MIRADIE",
+        "role": "caissier",
+        "statut": "actif",
+        "date_creation": "2026-04-30"
+    },
+    {
+        "id": 8,
+        "identifiant": "Caissier6",
+        "mot_de_passe": "$2y$10$G\/\/ZiALTSfAbIjrDVPqJJOBtlcn8T34D.sSGGPIkMENi56INzudYq",
+        "nom": "CHARLIE",
+        "prenom": "MIRADIE",
+        "role": "caissier",
+        "statut": "actif",
+        "date_creation": "2026-04-30"
+    }
+]
